@@ -8,4 +8,6 @@
  */
 
 rootProject.name = 'java-score-template'
-include('contracts')
+include('caller')
+include 'receiver'
+
